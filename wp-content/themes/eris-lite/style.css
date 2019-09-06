@@ -525,7 +525,7 @@ body .widget .slideshow-window div.slideshow-controls a:first-of-type, body .wid
 .read-more-link, .entry-content .read-more-link {font-weight: 400;}
 p + .read-more-link {margin-top: 22px;}
 .entry-header + .read-more-link {margin-top: -25px;}
-p + .read-more-link, .entry-header + .read-more-link {display: table;}
+p + .read-more-link, .entry-header + .read-more-link {display: none;}
 .sticky {display: block;}
 .hentry {margin: 0 0 1.5em;}
 .byline, .updated:not(.published) {display: none;}
@@ -830,7 +830,7 @@ body #jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post .jp-relatedpo
 body #jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post .jp-relatedposts-post-context, body #jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post .jp-relatedposts-post-date {letter-spacing: 1px;text-transform: uppercase;}
 #jp-relatedposts .jp-relatedposts-items-visual div.jp-relatedposts-post-thumbs p.jp-relatedposts-post-excerpt {margin-bottom: 20px;}
 @media only screen and (min-width: 768px) {.sticky-header header.site-header {width: 100%;position: fixed;top: 0;left: 0;}
-	.blog .site-content, .single .site-content, .page .site-content, .archive .site-content, .search .site-content, .tag.archive .site-content, .error404 .site-content, .split-layout .site-content {padding-top: 64px;}
+	.blog .site-content, .single .site-content, .page .site-content, .archive .site-content, .search .site-content, .tag.archive .site-content, .error404 .site-content, .split-layout .site-content {padding-top: 0px;}
 	.hamburger-menu.blog .site-content, .hamburger-menu.single .site-content, .hamburger-menu.page .site-content, .hamburger-menu.archive .site-content, .hamburger-menu.search .site-content, .hamburger-menu.tag.archive .site-content, .hamburger-menu.error404 .site-content, .hamburger-menu.split-layout .site-content {padding-top: 20px;}
 	.entry-content figure.alignleft, .entry-content img.alignleft {margin: 8px 46px 30px -80px;}
 	.entry-content figure.alignright, .entry-content img.alignright {margin: 8px -80px 30px 46px;}
@@ -1148,7 +1148,7 @@ body #jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post .jp-relatedpo
 	.menu-toggle span {width: 15px;}
 	.menu-toggle span:before {width: 25px;top: -5px;}
 	.menu-toggle span:after {width: 20px;top: 5px;}
-	.blog .site-content, .single .site-content, .page .site-content, .archive .site-content, .search .site-content, .tag.archive .site-content, .error404 .site-content, .split-layout .site-content {padding-top: 60px;}
+	.blog .site-content, .single .site-content, .page .site-content, .archive .site-content, .search .site-content, .tag.archive .site-content, .error404 .site-content, .split-layout .site-content {padding-top: 0px;}
 	.admin-bar > .widget-area {padding-left: 30px;padding-right: 30px;}
 	.widget-title {margin-bottom: 1.5rem;}
 	.close-sidebar, #big-search-close {right: 20px;}
