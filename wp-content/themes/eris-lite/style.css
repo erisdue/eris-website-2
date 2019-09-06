@@ -375,7 +375,7 @@ a:hover, a:active {outline: 0;}
 .single-post .entry-content a {font-weight: inherit;}
 .entry-footer a {border: none;}
 .entry-content cite a {font-weight: 400;}
-.post-navigation {margin: 13rem 0 0;}
+.post-navigation {margin: 0rem 0 0;}
 .nav-links a {border: none;display: block;font-weight: 400;opacity: .4;}
 .page-template-portfolio-page .nav-links a {padding-bottom: 0;}
 .nav-links a:after {display: block;}
@@ -563,7 +563,7 @@ blockquote:before, q:before, .listing .format-link .entry-content:before, .singl
 .listing .featured-landscape, .single .hero, .single .featured-image, .single .entry-title, .single .entry-meta {text-align: center;}
 .listing .featured-image + .entry-content .entry-header, .listing .entry-gallery + .entry-content .entry-header, .listing .entry-video + .entry-content .entry-header, .single .featured-image + .entry-header, .single .entry-gallery + .entry-header, .single .entry-video + .entry-header {margin-top: 3.3rem;}
 .single-post .hero .entry-header {margin-left: auto;margin-right: auto;max-width: 760px;}
-.single .hero .entry-title, .single .hero .entry-meta, .portrait-wrap .entry-header .entry-title, .portrait-wrap .entry-header .entry-meta, .listing .entry-content {text-align: left;}
+.single .hero .entry-title, .single .hero .entry-meta, .portrait-wrap .entry-header .entry-title, .portrait-wrap .entry-header .entry-meta, .listing .entry-content {text-align: center;}
 .single-format-video .featured-portrait, .single-portfolio-headline .featured-portrait {max-width: 100%;padding-right: 0;}
 .single-portfolio-headline .featured-portrait {display: block;}
 .single-format-video .portrait-wrap .entry-header {max-width: 100%;margin-bottom: 0;}
@@ -947,7 +947,7 @@ body #jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post .jp-relatedpo
 	.featured-slider .slick-dots {margin-left: 21px;bottom: 13px;left: 100%;-webkit-transform: rotate(-90deg);-moz-transform: rotate(-90deg);-ms-transform: rotate(-90deg);-o-transform: rotate(-90deg);transform: rotate(-90deg);}
 	.slider-initialized .site-content {margin-top: calc(100vh - 105px);}
 	.sticky-header.slider-initialized .site-content {margin-top: 100vh;}
-	.single-post .container-medium + .content-area, .single-portfolio .container-medium + .container-small {margin-top: 6rem;}
+	.single-post .container-medium + .content-area, .single-portfolio .container-medium + .container-small {margin-top: 0rem;}
 	.comment .children {margin-left: 5rem;}
 	.headline-template .site-content, .single-portfolio-headline .content-area {margin-top: 40vh;}
 	.masonry .portfolio-item .entry-title {margin-bottom: 10px;}
@@ -1019,7 +1019,7 @@ body #jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post .jp-relatedpo
 	.sticky-header.headline-template .hero .entry-content {margin-top: 40vh;}}
 @media only screen and (min-width: 2000px) {.featured-slider-wrap .container {max-width: 1600px;}
 	.featured-slider article {max-height: 740px;}}
-@media only screen and (min-width: 1025px) and (max-width: 1440px) {.blog .site-content, .single .site-content, .page .site-content, .archive .site-content, .search .site-content, .tag.archive .site-content, .error404 .site-content {padding-bottom: 150px;}
+@media only screen and (min-width: 1025px) and (max-width: 1440px) {.blog .site-content, .single .site-content, .page .site-content, .archive .site-content, .search .site-content, .tag.archive .site-content, .error404 .site-content {padding-bottom: 0px;}
 	.listing .hentry {margin-bottom: 12rem;}
 	.single-portfolio .hero {margin-top: 10vh;}
 	.headline-template .hero .entry-content {margin-top: 13vh;}
@@ -1143,7 +1143,7 @@ body #jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post .jp-relatedpo
 	.container {padding-left: 30px;padding-right: 30px;}
 	.main-navigation .nav-menu {margin: 50px 0 130px;}
 	.menu-toggle {height: 31px;width: 30px;top: 0;right: 94px;}
-	body.no-sidebar .menu-toggle {right: 54px;}
+	body.no-sidebar .menu-toggle {right: 20px;}
 	.toggled .menu-toggle, body.no-sidebar .toggled .menu-toggle {right: 20px;}
 	.menu-toggle span {width: 15px;}
 	.menu-toggle span:before {width: 25px;top: -5px;}
