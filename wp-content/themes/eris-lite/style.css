@@ -272,11 +272,11 @@ th {
 
 @font-face {
 	font-family: 'icomoon';
-	src: url('https://erisdue.github.io/eris-website-2/wp-content/themes/eris-lite/assets/fonts/icons/icomoon.eot?optfz5');
-	src: url('https://erisdue.github.io/eris-website-2/wp-content/themes/eris-lite/assets/fonts/icons/icomoon.eot?optfz5#iefix') format('embedded-opentype'),
-		url('https://erisdue.github.io/eris-website-2/wp-content/themes/eris-lite/assets/fonts/icons/icomoon.ttf?optfz5') format('truetype'),
-		url('https://erisdue.github.io/eris-website-2/wp-content/themes/eris-lite/assets/fonts/icons/icomoon.woff?optfz5') format('woff'),
-		url('https://erisdue.github.io/eris-website-2/wp-content/themes/eris-lite/assets/fonts/icons/icomoon.svg?optfz5#icomoon') format('svg');
+	src: url('http://erisdue.github.io/eris-website-2/wp-content/themes/eris-lite/assets/fonts/icons/icomoon.eot?optfz5');
+	src: url('http://erisdue.github.io/eris-website-2/wp-content/themes/eris-lite/assets/fonts/icons/icomoon.eot?optfz5#iefix') format('embedded-opentype'),
+		url('http://erisdue.github.io/eris-website-2/wp-content/themes/eris-lite/assets/fonts/icons/icomoon.ttf?optfz5') format('truetype'),
+		url('http://erisdue.github.io/eris-website-2/wp-content/themes/eris-lite/assets/fonts/icons/icomoon.woff?optfz5') format('woff'),
+		url('http://erisdue.github.io/eris-website-2/wp-content/themes/eris-lite/assets/fonts/icons/icomoon.svg?optfz5#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -2038,7 +2038,7 @@ textarea {
 }
 
 select {
-    background: url(https://erisdue.github.io/eris-website-2/wp-content/themes/eris-lite/assets/img/drop-arrow.png) no-repeat right 13px center;
+    background: url(http://erisdue.github.io/eris-website-2/wp-content/themes/eris-lite/assets/img/drop-arrow.png) no-repeat right 13px center;
     -webkit-background-size: 8px auto;
     background-size: 8px auto;
     border-radius: 0;
@@ -2253,7 +2253,7 @@ input[type="radio"]:checked + label:hover:before {
 
 .checkbox.checked:before,
 input[type="checkbox"]:checked + label:before {
-	background: #000 url(https://erisdue.github.io/eris-website-2/wp-content/themes/eris-lite/assets/img/check-big2x.png) no-repeat center center;
+	background: #000 url(http://erisdue.github.io/eris-website-2/wp-content/themes/eris-lite/assets/img/check-big2x.png) no-repeat center center;
 	-webkit-background-size: 12px auto;
 	background-size: 12px auto;
 }
