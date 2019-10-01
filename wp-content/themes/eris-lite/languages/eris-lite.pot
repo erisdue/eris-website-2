@@ -1,0 +1,1252 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Eris Lite\n"
+"POT-Creation-Date: 2017-12-11 14:56+0100\n"
+"PO-Revision-Date: 2017-12-11 14:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try to search for "
+"what you are looking for?"
+msgstr ""
+
+#: 404.php:24 header.php:59 templates/template-parts/content-none.php:27
+#: templates/template-parts/content-none.php:33
+msgid "Press Enter / Return to begin your search."
+msgstr ""
+
+#. translators: Comments headline
+#: comments.php:34
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on %2$s"
+msgid_plural "%1$s thoughts on %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:43 comments.php:65
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:46 comments.php:68
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:47 comments.php:69
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr ""
+
+#: eris-lite-about-page/class-eris-lite-about-page.php:733
+msgid "Activating"
+msgstr ""
+
+#: functions.php:57
+msgid "Primary menu"
+msgstr ""
+
+#: functions.php:58
+msgid "Side social menu"
+msgstr ""
+
+#: functions.php:98 functions.php:100
+msgid "About Eris"
+msgstr ""
+
+#. translators: Heading for welcome to theme text
+#: functions.php:103
+#, php-format
+msgid "Welcome to %s!"
+msgstr ""
+
+#. translators: Main text for welcome to theme text
+#: functions.php:106
+msgid ""
+"So, you’ve installed a free WordPress theme called Eris Lite. That’s great "
+"and we’re glad to have you with us. Eris Lite is fast, minimal, elegant, but "
+"you knew all this already. What you might not know: you can pay to upgrade "
+"to Eris (full) and Eris Shop. If you like Eris Lite then you’ll love the "
+"full eris experience with 24/7 support."
+msgstr ""
+
+#: functions.php:114
+msgid "Getting Started"
+msgstr ""
+
+#: functions.php:115
+msgid "Why Upgrade?"
+msgstr ""
+
+#: functions.php:116 inc/admin/welcome-screen/welcome-screen.php:210
+msgid "Changelog"
+msgstr ""
+
+#: functions.php:122
+msgid "Read the Docs"
+msgstr ""
+
+#: functions.php:123
+msgid ""
+"Read how to use and customize Eris Lite. Because reading is what? "
+"Fundamental."
+msgstr ""
+
+#: functions.php:124
+msgid "Read Eris Lite Docs"
+msgstr ""
+
+#: functions.php:131
+msgid "Customize"
+msgstr ""
+
+#: functions.php:132
+msgid "Change how Eris Lite looks and works in the WordPress Customizer."
+msgstr ""
+
+#: functions.php:133
+msgid "Open Customizer"
+msgstr ""
+
+#: functions.php:140
+msgid "Upgrade to full Eris"
+msgstr ""
+
+#: functions.php:141
+msgid ""
+"Get the full eris experience. More customizations. Portfolio. Shop. 24/7 "
+"support. And more."
+msgstr ""
+
+#: functions.php:142
+msgid "Upgrade your experience"
+msgstr ""
+
+#. translators: text for Buy premium theme button
+#: functions.php:180 functions.php:182
+#, php-format
+msgid "Get %s!"
+msgstr ""
+
+#: functions.php:185
+msgid "Custom Widgets"
+msgstr ""
+
+#: functions.php:186
+msgid ""
+"Display your ads, tweets, Facebook page and other dynamic content with a "
+"bunch of our custom widgets."
+msgstr ""
+
+#: functions.php:192
+msgid "Contact Form"
+msgstr ""
+
+#: functions.php:193
+msgid ""
+"The contact form hides your email address but still lets your visitors begin "
+"a private conversation with you."
+msgstr ""
+
+#: functions.php:199
+msgid "PSD files + Docs"
+msgstr ""
+
+#: functions.php:200
+msgid "Photoshop files and full theme documentation."
+msgstr ""
+
+#: functions.php:206 inc/customizer/customizer.php:136
+msgid "Featured Slider and Text"
+msgstr ""
+
+#: functions.php:207
+msgid ""
+"Make an impact with a featured images using an image slider. Or promote your "
+"content in a contemporary way with only featured text."
+msgstr ""
+
+#: functions.php:213 inc/customizer/customizer.php:137
+msgid "Hidden Menu"
+msgstr ""
+
+#: functions.php:214
+msgid ""
+"You can use the hidden menu to hide navigation links behind a button in case "
+"you want a clean page and layout."
+msgstr ""
+
+#: functions.php:220 inc/customizer/customizer.php:138
+msgid "Built-in Portfolio"
+msgstr ""
+
+#: functions.php:221
+msgid "Showcase your best projects in the portfolio section."
+msgstr ""
+
+#: functions.php:227 inc/customizer/customizer.php:139
+msgid "Portfolio Archive"
+msgstr ""
+
+#: functions.php:228
+msgid ""
+"Easily switch between 3 or 4 columns in layout. Not into grids? Shuffle your "
+"work! Eris takes your content and turns it into organised chaos."
+msgstr ""
+
+#: functions.php:234 inc/customizer/customizer.php:140
+msgid "Portfolio Single"
+msgstr ""
+
+#: functions.php:235
+msgid ""
+"Pick between 3 layouts: the split, classic or curtain layout, depending on "
+"your needs."
+msgstr ""
+
+#: functions.php:241 inc/customizer/customizer.php:141
+msgid "Change Credit Footer Link"
+msgstr ""
+
+#: functions.php:242
+msgid ""
+"Remove \"Eris Lite developed by Themes Kingdom\" copyright from the footer."
+msgstr ""
+
+#: functions.php:248 inc/customizer/customizer.php:142
+msgid "Support"
+msgstr ""
+
+#: functions.php:249
+msgid "Access to Fast, Full Support."
+msgstr ""
+
+#: functions.php:255 inc/customizer/customizer.php:143
+msgid "Change Color"
+msgstr ""
+
+#: functions.php:256
+msgid "You can change the colors of elements. You have unlimited options."
+msgstr ""
+
+#: functions.php:262 inc/customizer/customizer.php:144
+msgid "Change Fonts"
+msgstr ""
+
+#: functions.php:263
+msgid "You can change the fonts. You have unlimited options."
+msgstr ""
+
+#: functions.php:273
+msgid "Install and Activate"
+msgstr ""
+
+#: functions.php:274 inc/apis/class-tgm-plugin-activation.php:2814
+msgid "Activate"
+msgstr ""
+
+#: functions.php:275
+msgid "Deactivate"
+msgstr ""
+
+#: functions.php:279
+msgid ""
+"It is highly recommended that you install the Eris Widgets plugin to have "
+"access to all widgets."
+msgstr ""
+
+#: functions.php:314
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:315
+msgid "Footer Widgets 1"
+msgstr ""
+
+#: functions.php:316
+msgid "Footer Widgets 2"
+msgstr ""
+
+#. translators: Widget area headline description
+#: functions.php:325
+#, php-format
+msgid "Widget area for %s"
+msgstr ""
+
+#: functions.php:393
+msgid "No more posts to load."
+msgstr ""
+
+#: functions.php:431
+msgid "Theme default"
+msgstr ""
+
+#: functions.php:453
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: import demo
+#: functions.php:486
+#, php-format
+msgid "%s Demo"
+msgstr ""
+
+#: functions.php:491
+msgid ""
+"You can speed up development of your site by importing our sample site "
+"content like posts and images. The imported images are copyrighted and are "
+"for demo use only. Please replace them with your own images after importing."
+msgstr ""
+
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:49 header.php:53
+msgid "Menu"
+msgstr ""
+
+#: header.php:49
+msgid "Primary Menu"
+msgstr ""
+
+#: header.php:61
+msgid "close search form"
+msgstr ""
+
+#: header.php:65
+msgid "open search form"
+msgstr ""
+
+#: header.php:73
+msgid "open sidebar"
+msgstr ""
+
+#: header.php:82
+msgid "scroll to discover more"
+msgstr ""
+
+#: header.php:83
+msgid "back to top"
+msgstr ""
+
+#. translators: text for instaling theme
+#: inc/admin/welcome-screen/welcome-screen.php:65
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing Eris Lite! To fully take advantage of the "
+"best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:104
+msgid "Hooray! There are no required actions for you right now."
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:207
+msgid "Getting started"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:208
+msgid "Free VS PRO"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:212
+msgid "Child themes"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/apis/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/apis/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/apis/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/apis/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/apis/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/apis/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/apis/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/apis/class-tgm-plugin-activation.php:379
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/apis/class-tgm-plugin-activation.php:385
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/apis/class-tgm-plugin-activation.php:391
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/apis/class-tgm-plugin-activation.php:395
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:396
+#: inc/apis/class-tgm-plugin-activation.php:915
+#: inc/apis/class-tgm-plugin-activation.php:2621
+#: inc/apis/class-tgm-plugin-activation.php:3668
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:397
+#: inc/apis/class-tgm-plugin-activation.php:3247
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:398
+#: inc/apis/class-tgm-plugin-activation.php:3040
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/apis/class-tgm-plugin-activation.php:400
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/apis/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/apis/class-tgm-plugin-activation.php:404
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:405
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:406
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:407
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:610
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:611
+msgid "Update Required"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1022
+#: inc/apis/class-tgm-plugin-activation.php:1025
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1025
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:1209
+#: inc/apis/class-tgm-plugin-activation.php:3036
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/apis/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2361
+msgid "Required"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2364
+msgid "Recommended"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2380
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2383
+msgid "External Source"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2386
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2403
+msgid "Not Installed"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2407
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2409
+msgid "Active"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2415
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2418
+msgid "Requires Update"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2421
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/apis/class-tgm-plugin-activation.php:2430
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/apis/class-tgm-plugin-activation.php:2476
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/apis/class-tgm-plugin-activation.php:2480
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/apis/class-tgm-plugin-activation.php:2484
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/apis/class-tgm-plugin-activation.php:2488
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2570
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2578
+msgid "Installed version:"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2586
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2598
+msgid "Available version:"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2621
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2635
+msgid "Plugin"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2636
+msgid "Source"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2637
+msgid "Type"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2641
+msgid "Version"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2642
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/apis/class-tgm-plugin-activation.php:2691
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/apis/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/apis/class-tgm-plugin-activation.php:2702
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2772
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2805
+msgid "Install"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2811
+msgid "Update"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2845
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2847
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2888
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2890
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:2996
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:3022
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:3246
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/apis/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/apis/class-tgm-plugin-activation.php:3589
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/apis/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:3595
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/apis/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:3597
+#: inc/apis/class-tgm-plugin-activation.php:3605
+msgid "Show Details"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:3597
+#: inc/apis/class-tgm-plugin-activation.php:3605
+msgid "Hide Details"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:3598
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/apis/class-tgm-plugin-activation.php:3600
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:3603
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/apis/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/apis/class-tgm-plugin-activation.php:3606
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/apis/class-tgm-plugin-activation.php:3608
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class/class-coup-theme-info.php:8
+msgid "View Documentation"
+msgstr ""
+
+#: inc/class/class-coup-theme-info.php:11
+msgid "View Demo"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:79
+msgid "Eris Lite"
+msgstr ""
+
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:81
+msgid "Documentation"
+msgstr ""
+
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:89
+msgid "Portfolio"
+msgstr ""
+
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:90
+msgid "Packages section"
+msgstr ""
+
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:91
+msgid "Subscribe section"
+msgstr ""
+
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:92
+msgid "Ribbon Section"
+msgstr ""
+
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:93
+msgid "Google map section"
+msgstr ""
+
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:96
+#: inc/customizer-info/class/class-coup-customize-upsell.php:63
+#: inc/customizer-info/class/class-coup-customize-upsell.php:72
+#: inc/customizer-info/class/class-coup-customize-upsell.php:81
+msgid "See the full eris features"
+msgstr ""
+
+#: inc/customizer-info/class/class-coup-customize-upsell.php:65
+msgid "Get it"
+msgstr ""
+
+#: inc/customizer/customizer.php:31
+msgid "Eris Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:32
+msgid "Eris Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:45
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:61
+msgid "Enable sticky header"
+msgstr ""
+
+#: inc/customizer/customizer.php:72
+msgid "Paging Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:88
+msgid "Choose Archives Paging Type"
+msgstr ""
+
+#: inc/customizer/customizer.php:93
+msgid "Infinite Post Load"
+msgstr ""
+
+#: inc/customizer/customizer.php:94
+msgid "Standard Paging"
+msgstr ""
+
+#: inc/customizer/customizer.php:105
+msgid "Choose infinite load type"
+msgstr ""
+
+#: inc/customizer/customizer.php:106
+msgid "( If infinite scroll choosen )"
+msgstr ""
+
+#: inc/customizer/customizer.php:111
+msgid "On scroll"
+msgstr ""
+
+#: inc/customizer/customizer.php:112
+msgid "On click"
+msgstr ""
+
+#: inc/customizer/customizer.php:122
+msgid "See the full Eris features"
+msgstr ""
+
+#: inc/customizer/customizer.php:147 single-portfolio.php:17
+#: taxonomy-ct_portfolio.php:16
+msgid "See Eris"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: inc/extras.php:180
+msgid "Read more"
+msgstr ""
+
+#: inc/metadata/meta-box-config.php:13
+msgid "Gallery Fields"
+msgstr ""
+
+#: inc/metadata/meta-box-config.php:19
+msgid "Repeatable"
+msgstr ""
+
+#: inc/metadata/meta-box-config.php:20
+msgid "Gallery images"
+msgstr ""
+
+#: inc/metadata/meta-box-config.php:29
+msgid "Link"
+msgstr ""
+
+#: inc/metadata/meta-box-config.php:35
+msgid "Link Text"
+msgstr ""
+
+#: inc/metadata/meta-box-config.php:46
+msgid "Link Title"
+msgstr ""
+
+#: inc/metadata/meta-box-config.php:53
+msgid "Link Url"
+msgstr ""
+
+#: inc/metadata/meta-box-config.php:63 inc/metadata/meta-box-config.php:69
+msgid "Quote Text"
+msgstr ""
+
+#: inc/metadata/meta-box-config.php:80
+msgid "Quote Author"
+msgstr ""
+
+#: inc/metadata/meta-box-config.php:90 inc/metadata/meta-box-config.php:96
+msgid "Video Link"
+msgstr ""
+
+#: inc/metadata/meta-box-config.php:97
+msgid ""
+"Paste your video link (e.g. http://www.youtube.com/watch?v=zMtKfSSGkIY or "
+"https://vimeo.com/64814911)"
+msgstr ""
+
+#: inc/metadata/meta-box-config.php:110
+msgid "Audio Options"
+msgstr ""
+
+#: inc/metadata/meta-box-config.php:116
+msgid "Audio Link"
+msgstr ""
+
+#: inc/metadata/meta-box-config.php:117
+msgid "Paste your audio link or audio embed HTML code"
+msgstr ""
+
+#: inc/metadata/meta-boxes.php:207 inc/metadata/meta-boxes.php:213
+msgid "None"
+msgstr ""
+
+#: inc/metadata/meta-boxes.php:298
+msgid "Drag to reorder images"
+msgstr ""
+
+#: inc/metadata/meta-boxes.php:317
+msgid "Click to add another meta box"
+msgstr ""
+
+#: inc/metadata/meta-boxes.php:340 inc/metadata/meta-boxes.php:348
+msgid "Title:  "
+msgstr ""
+
+#: inc/metadata/meta-boxes.php:341 inc/metadata/meta-boxes.php:349
+msgid "Text:  "
+msgstr ""
+
+#. translators: posted in category
+#: inc/template-tags.php:70
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: posted in tags
+#: inc/template-tags.php:77
+msgid "and"
+msgstr ""
+
+#: inc/template-tags.php:77
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: category achive
+#: inc/template-tags.php:99
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#. translators: tag achive
+#. translators: Tag title
+#: inc/template-tags.php:102 tag.php:19
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#. translators: author achive
+#: inc/template-tags.php:105
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#. translators: year achive
+#: inc/template-tags.php:108
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:108
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#. translators: month achive
+#: inc/template-tags.php:111
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:111
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#. translators: date achive
+#: inc/template-tags.php:114
+#, php-format
+msgid "Date: %s"
+msgstr ""
+
+#: inc/template-tags.php:114
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:117
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:119
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:121
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:123
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:125
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:127
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:129
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:131
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:133
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#. translators: achive
+#: inc/template-tags.php:137
+#, php-format
+msgid "%s "
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:141
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:143
+msgid "Archives"
+msgstr ""
+
+#: inc/template-tags.php:174
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:179
+msgid "Load More"
+msgstr ""
+
+#: inc/template-tags.php:191
+msgid "Prev"
+msgstr ""
+
+#: inc/template-tags.php:192
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:373 inc/template-tags.php:414
+msgid "Video only allowes vimeo and youtube!"
+msgstr ""
+
+#: inc/template-tags.php:606
+msgid "Follow"
+msgstr ""
+
+#: inc/template-tags.php:675
+msgid "Related Articles"
+msgstr ""
+
+#. translators: Search results title
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar.php:19
+msgid "close sidebar"
+msgstr ""
+
+#: single-portfolio.php:15 taxonomy-ct_portfolio.php:14
+msgid ""
+"The portfolio is a paid Eris feature. Upgrade to the full Eris experience to "
+"use it."
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: templates/template-parts/content-link.php:41
+#: templates/template-parts/content-quote.php:34
+#: templates/template-parts/content-single.php:21
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: templates/template-parts/content-link.php:46
+#: templates/template-parts/content-page.php:22
+#: templates/template-parts/content-quote.php:39
+#: templates/template-parts/content-single.php:26
+#: templates/template-parts/content.php:30
+msgid "Pages:"
+msgstr ""
+
+#: templates/template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: Publish first post
+#: templates/template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: templates/template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: templates/template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post
+#: templates/template-parts/content-page.php:32
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: templates/template-parts/content-related.php:43
+msgid "In "
+msgstr ""
+
+#: templates/template-parts/content-search.php:17
+msgid "portfolio"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid ""
+"https://themeskingdom.com/wordpress-themes/eris-lite-free-wordpress-blogging-"
+"theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Eris is a crisp and elegant portfolio theme. You can use showcase all your "
+"different projects as a unified and beautiful story."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themes Kingdom"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeskingdom.com"
+msgstr ""
